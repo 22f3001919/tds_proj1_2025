@@ -17,12 +17,12 @@
 > [!NOTE]
 > Hot tip: Use the LLM to convert the image to a text description and then use the description in the markdown of the post.
 
-- [ ] Create embeddings for all text data
+- [x] Create embeddings for all text data
 
 > [!NOTE]
 > Hot tip: Use npz (a highly compressed numpy array store) to efficiently store the embedding vectors.
 
-- [ ] Chunk appropriately (with overlaps). Overlaps of content help with context accuracy.
+- [x] Chunk appropriately (with overlaps). Overlaps of content help with context accuracy.
 
 > [!WARNING]
 > Remember to honour rate limits!
