@@ -1,1 +1,3 @@
-https://locator-service.api.bbci.co.uk/locations?api_key=AGbFAKx58hyjQScCXIYrxuEwJh2W2cmv&stack=aws&locale=en&filter=international&place-types=settlement%2Cairport%2Cdistrict&order=importance&s=NO&a=true&format=json
+https://locator-service.api.bbci.co.uk/locations?
+
+https://weather-broker-cdn.api.bbci.co.uk/en/forecast/aggregated/1269515
