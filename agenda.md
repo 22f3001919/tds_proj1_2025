@@ -1,7 +1,7 @@
 # Agenda
 
 ## 1. Source data
- - [ ] Get course data from github
+ - [*] Get course data from github
 
 > [!NOTE]
 > Hot tip: Don't scrape, just use the markdown from https://github.com/sanand0/tools-in-data-science-public/tree/tds-2025-01
