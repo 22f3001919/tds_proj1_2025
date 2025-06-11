@@ -24,6 +24,9 @@
 
 - [ ] Chunk appropriately (with overlaps). Overlaps of content help with context accuracy.
 
+> [!WARNING]
+> Remember to honour rate limits!
+
 ## 3. Create the application
 
 - [ ] Create fastapi application (vercel vs render / huggingface)
