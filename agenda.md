@@ -14,12 +14,12 @@
 ## 2. Preparing the data
  - [ ] Convert all materials to markdown
 
-> [! NOTE]
+> [!NOTE]
 > Hot tip: Use the LLM to convert the image to a text description and then use the description in the markdown of the post.
 
 - [ ] Create embeddings for all text data
 
-> [! NOTE]
+> [!NOTE]
 > Hot tip: Use npz (a highly compressed numpy array store) to efficiently store the embedding vectors.
 
 - [ ] Chunk appropriately (with overlaps). Overlaps of content help with context accuracy.
