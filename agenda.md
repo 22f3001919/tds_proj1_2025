@@ -1,18 +1,18 @@
 # Agenda
 
 ## 1. Source data
- - [*] Get course data from github
+ - [x] Get course data from github
 
 > [!NOTE]
 > Hot tip: Don't scrape, just use the markdown from https://github.com/sanand0/tools-in-data-science-public/tree/tds-2025-01
  
- - [ ] Get discourse data using API
+ - [x] Get discourse data using API
 
 > [!NOTE]
 > Hot tip:  Do not scrape the HTML, use the json response
 
 ## 2. Preparing the data
- - [ ] Convert all materials to markdown
+ - [x] Convert all materials to markdown
 
 > [!NOTE]
 > Hot tip: Use the LLM to convert the image to a text description and then use the description in the markdown of the post.
