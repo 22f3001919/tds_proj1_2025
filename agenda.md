@@ -29,11 +29,11 @@
 
 ## 3. Create the application
 
-- [ ] Create fastapi application (vercel vs render / huggingface)
-- [ ] Incorporate the RAG retrieval and chat completion mechanism
+- [x] Create fastapi application (vercel vs render / huggingface)
+- [x] Incorporate the RAG retrieval and chat completion mechanism
 
 ## 4. Deploy the application
-- [ ] Deploy the application to vercel (advantage: always up, disadvantage: a little complicated to set up)
+- [x] Deploy the application to vercel (advantage: always up, disadvantage: a little complicated to set up)
 - [ ] Deploy the application to render (advantage: easy to set up, disadvantage: not always up)
 - [ ] Deploy the application to huggingface/dockerapp (advantage: docker based, high performance; disadvantage: more complex setup)
 
